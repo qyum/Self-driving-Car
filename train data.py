@@ -1,3 +1,4 @@
+
 data_folder='/content/drive/My Drive/unzip_driving_dataset/driving_dataset'
 
 train_data=os.path.join(data_folder,'data.txt')
